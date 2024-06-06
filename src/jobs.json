@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "100-110-1011"
       }
-    },
-    {
-      "id": "3f2e",
-      "title": "Software Intern",
-      "type": "Internship",
-      "location": "Beijing, China",
-      "description": "Javascript, React, HTML",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Beijing Tech. Intel",
-        "description": "We build large internet bubbles",
-        "contactEmail": "BTL@beijing.com",
-        "contactPhone": "191-191-1919"
-      }
     }
   ]
 }
