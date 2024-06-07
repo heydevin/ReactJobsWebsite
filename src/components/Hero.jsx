@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Hero = ({
-  title = 'Become a React Dev', 
-  subTitle = 'Find the React job that fits your skills and needs',
+  title = 'Become a React Developer', 
+  subTitle = 'Find the Perfect React Job That Matches Your Skills and Needs',
 }) => {
   return (
     <section className="bg-indigo-700 py-20 mb-4">
