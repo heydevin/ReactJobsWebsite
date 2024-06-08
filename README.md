@@ -1,7 +1,7 @@
 # React Jobs Project 
 This is a jobs listing project built using [React](https://react.dev/)&nbsp;<img src="https://raw.githubusercontent.com/facebook/react/main/fixtures/dom/public/react-logo.svg" alt="React Logo" width="44.083" height="39.225">
 
-<img src="public/screen.png" />
+<img src="public/HomePage.png" />
 
 ## Usage
 
